@@ -1,6 +1,6 @@
 # Download installer
 
--- [Download link](https://github.com/celbax95/Keezy_Installer/raw/main/Keezy_setup.exe) --
+-- [Download Keezy_setup.exe](https://github.com/celbax95/Keezy_Installer/raw/main/Keezy_setup.exe) --
 
 
 ## Ignorer l'antivirus
