@@ -82,4 +82,4 @@ if (publish == "y"):
     os.system("cd " + os.path.join(os.path.dirname(__file__), "..")
               + " && git add *Keezy_setup.exe *installer.iss *Keezy.exe *file_version_info.txt && git commit -m \"Maj {}.{}\"".format(
               nextVersion[0],nextVersion[1]))
-    # os.system("cd " + os.path.join(os.path.dirname(__file__), "..") + " && git push origin main")
+    os.system("cd " + os.path.join(os.path.dirname(__file__), "..") + " && git push origin main")
